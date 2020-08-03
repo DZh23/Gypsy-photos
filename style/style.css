@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    box-sizing: content-box;
+}
+
+.bg-cover {
+    width: 100%;
+    position: fixed;
+    
+
+}
+
+.bg-letters {
+    position: absolute;
+    /* top: 10px; */
+}
+
+.coming-soon-sign {
+    position: absolute;
+}
+
